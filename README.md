@@ -2,7 +2,7 @@
 
 today
 is
-friday
+wednesday
 yay
 
 now
