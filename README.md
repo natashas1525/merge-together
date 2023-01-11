@@ -5,8 +5,8 @@ is
 friday
 yay
 
-today
-is
+now
+its
 raining
 also
 its
